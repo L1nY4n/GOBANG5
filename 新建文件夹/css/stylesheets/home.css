@@ -1,0 +1,33 @@
+
+
+.container-dds{
+	border:1px solid #008000;
+	border-radius:4px;
+}
+
+.container-sss{
+	margin-bottom: 15px;	
+}
+
+.col-md-12{
+	margin:5px;
+	padding:5px;
+}
+.dl-horizontal>dd{
+	text-align: center;
+}
+.dl-horizontal>dt{
+	line-height: 100%;
+}
+
+.connect-btn{
+	margin:10px;
+}
+.footer{
+width:100%;
+text-align:center;
+position: fixed;
+background: #337ab7;
+border-radius:2px;
+bottom: 0;
+}
