@@ -1,95 +1,15 @@
 <!DOCTYPE html>
 <html>
-	<head>
+<head>
 		<meta charset="UTF-8">
 
 
-		<script src="javascripts/five.js"></script>
-		<link href="stylesheets/five.css" rel="stylesheet">
-		<link href="stylesheets/button.css" rel="stylesheet">
+		
 		<title></title>
 	</head>
 	<body>
-
-
-
-	<div id="content">
-		<nav>
-			<ul>
-				<li ><span class="button button-3d  button-rounded button-primary" id="restart">重新开始</span></li>
-				<li ><span class="button button-3d  button-rounded  button-primary"id="pause">暂停</span></li>
-				<li ><span class="button button-3d  button-rounded button-primary"id="retract">悔棋</span></li>
-				<li id="time" class="button  button-rounded button-royal">黑方玩家剩余时间180s</li>
-
-			</ul>
-
-		</nav>
-		<div id="wit_bar" >
-			<h3>白方积分</h3>
-			<h2 id="ws"> 0分</h2>
-
-		</div>
-		<div id="bla_bar">
-			<h3>黑方积分</h3>
-			<h2 id="bs"> 0分</h2>
-		</div>
-		<div id="main"> <div id="pause_bar"></div></div>
-
-
-
-
-
-
-
-
-	</div>
-	<button onclick="a()">按钮</button>
-	<ul id="ultext">
-
-	</ul>
-
-
-
-
-	<!-- jQuery (Bootstrap 的 JavaScript 插件需要引入 jQuery) -->
-     <!-- <script src="https://code.jquery.com/jquery.js"></script>-->
-      <script src="javascripts/jquery.js"></script>
-
-
-    <!-- 客户端socket库-->
-	<script src="javascripts/socket.io.min.js"></script>
-	<script src="javascripts/five.js"></script>
-<script>
-
-//	var socket = io();
-//    socket.emit('play', {date:datas});//发送下棋事件
-
-//        //监听click2事件
-//        socket.on('flash', function(data){
-//            var htmldatas = data.datas;
-//            var html = '';
-//            for (var i = 0; i < htmldatas.length; i++) {
-//                var htmldata = htmldatas[i];
-//                html += '<li>'+htmldata+'</li>';
-//            }
-//            document.getElementById('ultext').innerHTML = html;
-//        })
-	</script>
-
-
-	<script>
-
-
-            var div=document.getElementById('ultext');
-        function a(){
-
-            var socket = io();
-
-                socket.emit('click1');
-
-
-        }
-	</script>
-
-	</body>
+        <div><a href="./gobang5.html"></a>五子棋</div>
+    </body>
 </html>
+
+
