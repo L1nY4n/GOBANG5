@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdc61d8-baf6-44b1-b42a-9d83e82cbb20" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/five.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gobang5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap-switch.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap-switch.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/button.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/five.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/home.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/register.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/style.css" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/bg1.jpg" afterPath="$PROJECT_DIR$/gobang5/image/bg1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/black50x50.png" afterPath="$PROJECT_DIR$/gobang5/image/black50x50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/cross50x50.png" afterPath="$PROJECT_DIR$/gobang5/image/cross50x50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/pause.jpg" afterPath="$PROJECT_DIR$/gobang5/image/pause.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/white50x50.png" afterPath="$PROJECT_DIR$/gobang5/image/white50x50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/white_h50x50.png" afterPath="$PROJECT_DIR$/gobang5/image/white_h50x50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/bootstrap-switch.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/bootstrap-switch.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/bootstrap-switch.min.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/bootstrap-switch.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/bootstrap.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/bootstrap.min.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/client.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/client.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/five.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/five.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/five.js.bak" afterPath="$PROJECT_DIR$/gobang5/javascripts/five.js.bak" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/index.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/jquery.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/jquery.min.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/socket.io.min.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/socket.io.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascripts/tcp.js" afterPath="$PROJECT_DIR$/gobang5/javascripts/tcp.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,14 +23,31 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="216">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/logo.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gobang5/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1485">
@@ -137,9 +118,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gobang5/stylesheets/five.css" />
         <option value="$PROJECT_DIR$/gobang5/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style/index.css" />
       </list>
     </option>
   </component>
@@ -192,7 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gobang5" />
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -209,6 +191,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT\image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GIT\gobang5" />
     </key>
@@ -297,12 +282,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500343393403</updated>
-      <workItem from="1500343396349" duration="3259000" />
+      <workItem from="1500343396349" duration="5003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3259000" />
+    <option name="totallyTimeSpent" value="5003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="0" width="1846" height="1038" extended-state="0" />
@@ -346,25 +331,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gobang5/javascripts/five.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gobang5/five.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8667">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -386,10 +355,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gobang5/five.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8667">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gobang5/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="55" column="19" lean-forward="false" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
