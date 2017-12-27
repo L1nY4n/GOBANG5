@@ -1,0 +1,146 @@
+.text-red {
+    color: red
+}
+
+.text-green {
+    color: green
+}
+
+.text-yellow {
+    color: yellow
+}
+
+.bg-red {
+    background-color: red
+}
+
+.bg-green {
+    background-color: green
+}
+
+.bg-yellow {
+    background-color: yellow
+}
+
+.margin-4 {
+    margin: 4px
+}
+
+
+#panel {
+ 
+  
+}
+@media print {
+    body{
+        margin: 0;
+    }
+    #panel{
+        padding: 0;
+        border:none;
+    }
+    .no-print {
+        display: none
+    }
+    #container {
+        margin: 0;
+    }
+ 
+    .col-md-8{
+        margin: 0;
+        padding: 0;
+    }
+
+    .wrapper {
+        page-break-before: always;
+        border: none;
+        border-radius: 5px;
+
+    }
+
+    .qr {
+        display: inline-block;
+        padding: 10px;
+        background-color: #fff;
+        border: solid 1px #0085d0;
+        border-radius: 5px;
+    }
+
+    .des {
+        text-align: left;
+        color: black;
+        padding: 12px 0 0 4px;
+        display: inline-block;
+        background-color: #fff;
+        border-radius: 5px;
+        height: 165px;
+        vertical-align: top;
+    }
+
+    label {
+      
+        margin-right: 2px;
+    }
+
+    p {
+        font-size: 26px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+    }
+
+
+}
+
+@media screen {
+    #container {
+        margin: 10px auto;
+    }
+
+
+    .wrapper {
+        margin: 5px auto;
+        background-color: #69a9bc;
+        width: 530px;
+        border: solid 1px #35545e;
+        padding: 10px;
+        border-radius: 5px;
+
+    }
+
+    .qr {
+        padding: 5px;
+        display: inline-block;
+    
+        background-color: #fff;
+        border: solid 1px #89999e;
+        border-radius: 5px;
+    }
+
+    .des {
+        text-align: left;
+        color: black;
+        padding: 12px 10px 0 4px;
+        display: inline-block;
+        border-radius: 5px;
+        height: 165px;
+        vertical-align: top;
+    }
+
+    label {
+        display: inline-block;
+        width: 40px;
+        font-size: 18px;
+        font-weight: 700;
+        text-align:right;
+        margin-right: 5px;
+
+    }
+
+    p {
+        font-size: 23px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+    }
+}

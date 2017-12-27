@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>二维码手打</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <link href="todo/camera.css" type="text/css" rel="stylesheet">
+  <script type="text/javascript" src="./js/jquery-1.10.1.min.js"></script>
+  <script type="text/javascript" src="./js/qrcode.min.js"></script>
+  <script type="text/javascript" src="./todo/outputQR.js"></script>
+</head>
+
+<body >
+<div class=""></div>
+<div class="container">
+<div class="col-md-4 no-print">
+  <h4>请输入打印的<strong>信息</strong></h4>
+      <div class="input-group">
+          <div class="input-group-addon">MAC: </div>
+        
+          <input type="text" class="form-control" id="mac" placeholder="输入mac地址...">
+        </div>
+      </br>
+   <div class="input-group">
+      <div class="input-group-addon">IP: </div>
+    <div class="input-group-addon">192.168.0.</div>
+    <input type="text" class="form-control" id="ip" placeholder="输入IP地址">
+  </div>
+</br>
+
+ <div class="margin-4"><button id="print" class="btn btn-default btn-info btn-block">打印当前</button></div>
+</div>
+<div  class="col-md-8">
+  <div id="panel" class="col-md-12">
+    </div>
+  </div>
+</div>
+</div>
+</body>
+</html>
